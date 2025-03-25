@@ -1,0 +1,56 @@
+questionText,questionType,option1,option1Correct,option2,option2Correct,option3,option3Correct,option4,option4Correct,points
+"Which of the following is NOT a type of force?",multiple-choice,"Tensile",FALSE,"Compressive",FALSE,"Velocity",TRUE,"Shear",FALSE,1
+"What type of force pulls a material apart?",multiple-choice,"Shear",FALSE,"Tensile",TRUE,"Compressive",FALSE,"Torsion",FALSE,1
+"Which force pushes a material together?",multiple-choice,"Tensile",FALSE,"Compressive",TRUE,"Shear",FALSE,"Torsion",FALSE,1
+"Shear force acts in which direction relative to the stress plane?",multiple-choice,"Perpendicular",FALSE,"Parallel",TRUE,"Opposite",FALSE,"Random",FALSE,1
+"Torsion refers to what kind of stress?",multiple-choice,"Bending",FALSE,"Twisting",TRUE,"Pushing",FALSE,"Pulling",FALSE,1
+"What type of load remains constant over time?",multiple-choice,"Static",TRUE,"Dynamic",FALSE,"Uniform",FALSE,"Cyclic",FALSE,1
+"A load that fluctuates on a material is called?",multiple-choice,"Static",FALSE,"Point",FALSE,"Dynamic",TRUE,"Distributed",FALSE,1
+"Which type of load is spread uniformly along a beam?",multiple-choice,"Point Load",FALSE,"Uniformly Distributed Load (UDL)",TRUE,"Uniformly Varying Load (UVL)",FALSE,"Concentrated Load",FALSE,1
+"Which of the following is NOT a factor that generates forces?",multiple-choice,"Gravity",FALSE,"Electromagnetism",FALSE,"Wind",FALSE,"Temperature",TRUE,1
+"Which of these is an example of a contact force?",multiple-choice,"Gravity",FALSE,"Magnetic force",FALSE,"Friction",TRUE,"Electrostatic force",FALSE,1
+"What is the definition of stress in mechanics?",multiple-choice,"The force applied to an object",FALSE,"The resistance of a material to deformation",TRUE,"The deformation of a material",FALSE,"The energy absorbed by a material",FALSE,1
+"What is strain?",multiple-choice,"Force per unit area",FALSE,"The change in length per unit original length",TRUE,"The resistance of a material to force",FALSE,"The twisting of a material",FALSE,1
+"The stress-strain curve of ductile materials shows which three main stages?",multiple-choice,"Elastic limit, Ultimate stress, Fracture stress",TRUE,"Elastic, Plastic, Shear",FALSE,"Compression, Bending, Shear",FALSE,"None of the above",FALSE,1
+"Which material is an example of a brittle material?",multiple-choice,"Steel",FALSE,"Copper",FALSE,"Cast Iron",TRUE,"Rubber",FALSE,1
+"Which of the following is a characteristic of ductile materials?",multiple-choice,"No plastic deformation before fracture",FALSE,"Necking before fracture",TRUE,"Sudden failure",FALSE,"Poor heat conduction",FALSE,1
+"What type of fracture does a ductile material undergo?",multiple-choice,"Cup-and-cone fracture",TRUE,"Brittle fracture",FALSE,"Sudden fracture",FALSE,"No fracture",FALSE,1
+"Brittle materials typically have a ______ Young's modulus and ultimate stress.",multiple-choice,"Low",FALSE,"Medium",FALSE,"High",TRUE,"Zero",FALSE,1
+"Which of the following best describes Poisson's ratio?",multiple-choice,"Ratio of compressive to tensile stress",FALSE,"Ratio of lateral strain to axial strain",TRUE,"Ratio of stress to strain",FALSE,"Ratio of load to area",FALSE,1
+"In structural beams, what is the name of a beam that has supports at both ends?",multiple-choice,"Cantilever beam",FALSE,"Simply supported beam",TRUE,"Continuous beam",FALSE,"Fixed beam",FALSE,1
+"Which beam type has more than two supports?",multiple-choice,"Simply supported beam",FALSE,"Continuous beam",TRUE,"Cantilever beam",FALSE,"Fixed beam",FALSE,1
+"What is the primary function of beams in structures?",multiple-choice,"Support axial loads",FALSE,"Transmit loads to supports",TRUE,"Prevent vibrations",FALSE,"Provide insulation",FALSE,1
+"Which type of support resists vertical forces only?",multiple-choice,"Roller support",TRUE,"Hinge support",FALSE,"Fixed support",FALSE,"Cantilever support",FALSE,1
+"What is the purpose of a bending moment diagram?",multiple-choice,"To determine stress distribution",TRUE,"To find the total weight of a beam",FALSE,"To measure deflection",FALSE,"To calculate stiffness",FALSE,1
+"Which of the following best describes the function of shear force in a beam?",multiple-choice,"Twisting of the beam",FALSE,"Resisting bending",TRUE,"Causing tensile stress",FALSE,"Preventing buckling",FALSE,1
+"What does a point load represent in structural analysis?",multiple-choice,"A load applied over a large area",FALSE,"A load acting at a specific point",TRUE,"A uniform load spread over the length of a beam",FALSE,"A fluctuating load",FALSE,1
+"The sum of all vertical forces in a beam in equilibrium must be?",multiple-choice,"Equal to the sum of horizontal forces",FALSE,"Equal to zero",TRUE,"Equal to the bending moment",FALSE,"Equal to the applied force",FALSE,1
+"Which material would have the highest ductility?",multiple-choice,"Cast iron",FALSE,"Glass",FALSE,"Copper",TRUE,"Concrete",FALSE,1
+"A structural member subjected to axial tensile force will experience?",multiple-choice,"Compression",FALSE,"Elongation",TRUE,"Bending",FALSE,"Torsion",FALSE,1
+"Which of the following properties is related to a material's resistance to bending?",multiple-choice,"Modulus of Elasticity",TRUE,"Poisson's Ratio",FALSE,"Shear Stress",FALSE,"Hardness",FALSE,1
+"The modulus of elasticity (Young's modulus) relates to which mechanical property?",multiple-choice,"Stiffness",TRUE,"Toughness",FALSE,"Hardness",FALSE,"Ductility",FALSE,1
+"Which of the following best defines Mechanics?",multiple-choice,"Study of motion only",FALSE,"Study of forces acting on a body at rest or in motion",TRUE,"Study of rigid bodies only",FALSE,"Study of electrical forces",FALSE,1
+"What are the two main branches of Mechanics?",multiple-choice,"Dynamics and Thermodynamics",FALSE,"Statics and Dynamics",TRUE,"Kinetics and Kinematics",FALSE,"Fluid Mechanics and Solid Mechanics",FALSE,1
+"Which of the following correctly describes Statics?",multiple-choice,"Study of forces acting on a body in motion",FALSE,"Study of forces acting on a body in equilibrium",TRUE,"Study of forces without considering motion",FALSE,"Study of forces acting on fluids only",FALSE,1
+"Kinetics is a branch of Dynamics that deals with:",multiple-choice,"Motion without considering force",FALSE,"Study of forces causing motion",TRUE,"Motion in a straight line only",FALSE,"Study of objects at rest",FALSE,1
+"Which unit system uses Newton (N) as the unit of force?",multiple-choice,"CGS System",FALSE,"FPS System",FALSE,"SI System",TRUE,"US Customary System",FALSE,1
+"What is the correct SI unit of force?",multiple-choice,"kg.m/s²",TRUE,"g.cm/s²",FALSE,"lb.ft/s²",FALSE,"kg.cm/s²",FALSE,1
+"Which of the following is a fundamental concept in Engineering Mechanics?",multiple-choice,"Force",TRUE,"Temperature",FALSE,"Pressure",FALSE,"Sound",FALSE,1
+"A particle is defined as a body that has:",multiple-choice,"Mass but negligible size",TRUE,"No mass and no size",FALSE,"No force acting on it",FALSE,"Infinite size",FALSE,1
+"A rigid body is defined as a body in which:",multiple-choice,"Internal stresses are ignored",FALSE,"The relative positions of any two particles do not change",TRUE,"Only rotational motion is considered",FALSE,"Forces do not affect the motion",FALSE,1
+"What does the Principle of Transmissibility of Forces state?",multiple-choice,"A force can be replaced by another force of the same magnitude and direction along the same line of action",TRUE,"Forces cannot be transmitted between points on a rigid body",FALSE,"Internal stresses remain the same when a force is transmitted",FALSE,"A force applied anywhere on a body does not affect its motion",FALSE,1
+"A particle is in equilibrium when the resultant force acting on it is:",multiple-choice,"Greater than zero",FALSE,"Less than zero",FALSE,"Equal to zero",TRUE,"Infinity",FALSE,1
+"According to Newton's First Law, if the resultant force on a particle is zero, the particle will:",multiple-choice,"Stop moving",FALSE,"Accelerate",FALSE,"Remain at rest or move with constant velocity",TRUE,"Move in a circular path",FALSE,1
+"The equation representing the equilibrium condition of a particle is:",multiple-choice,"∑F = ma",FALSE,"∑F = m/a",FALSE,"∑F = 0",TRUE,"∑F = mg",FALSE,1
+"Which of the following is a method used to find equilibrium of forces?",multiple-choice,"Lami's theorem",TRUE,"Pythagoras theorem",FALSE,"Newton's third law",FALSE,"Bernoulli's principle",FALSE,1
+"Lami's theorem states that if three forces acting at a point are in equilibrium, each force is proportional to:",multiple-choice,"The tangent of the angle between the other two forces",FALSE,"The sine of the angle between the other two forces",TRUE,"The cosine of the angle between the other two forces",FALSE,"The logarithm of the angle between the other two forces",FALSE,1
+"Friction is a force that:",multiple-choice,"Enhances motion",FALSE,"Opposes motion",TRUE,"Has no effect on motion",FALSE,"Acts only in liquids",FALSE,1
+"The force of friction always acts:",multiple-choice,"In the direction of motion",FALSE,"Opposite to the direction of motion",TRUE,"Perpendicular to the motion",FALSE,"In any random direction",FALSE,1
+"Which of the following is NOT a type of friction?",multiple-choice,"Static friction",FALSE,"Rolling friction",FALSE,"Sliding friction",FALSE,"Magnetic friction",TRUE,1
+"Static friction is defined as the friction that:",multiple-choice,"Acts when a body is at rest",TRUE,"Acts when a body is in motion",FALSE,"Does not exist in nature",FALSE,"Increases as the body accelerates",FALSE,1
+"Dynamic friction is also called:",multiple-choice,"Sliding friction",FALSE,"Kinetic friction",TRUE,"Limiting friction",FALSE,"Normal reaction",FALSE,1
+"Rolling friction is usually:",multiple-choice,"Greater than sliding friction",FALSE,"Less than sliding friction",TRUE,"Equal to sliding friction",FALSE,"Equal to static friction",FALSE,1
+"The limiting friction is:",multiple-choice,"The minimum force required to stop an object",FALSE,"The maximum force before the object starts moving",TRUE,"The average force acting on an object",FALSE,"The normal reaction of a body",FALSE,1
+"The normal reaction is denoted by:",multiple-choice,"F",FALSE,"R or N",TRUE,"μ",FALSE,"W",FALSE,1
+"The coefficient of friction (μ) is given by the ratio of:",multiple-choice,"Applied force to normal reaction",FALSE,"Normal reaction to limiting friction",FALSE,"Limiting friction to normal reaction",TRUE,"Weight to normal reaction",FALSE,1
+"The angle at which a body just begins to slide down an inclined plane is called:",multiple-choice,"Angle of repose",TRUE,"Angle of friction",FALSE,"Angle of inclination",FALSE,"Angle of resistance",FALSE,1
