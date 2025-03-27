@@ -1,0 +1,6 @@
+questionText,questionType,option1,option1Correct,option2,option2Correct,option3,option3Correct,option4,option4Correct,points
+Which of the following is NOT a type of force?,multiple-choice,Tensile,FALSE,Compressive,FALSE,Velocity,TRUE,Shear,FALSE,1
+What type of force pulls a material apart?,multiple-choice,Shear,FALSE,Tensile,TRUE,Compressive,FALSE,Torsion,FALSE,1
+Which force pushes a material together?,multiple-choice,Tensile,FALSE,Compressive,TRUE,Shear,FALSE,Torsion,FALSE,1
+Shear force acts in which direction relative to the stress plane?,multiple-choice,Perpendicular,FALSE,Parallel,TRUE,Opposite,FALSE,Random,FALSE,1
+Torsion refers to what kind of stress?,multiple-choice,Bending,FALSE,Twisting,TRUE,Pushing,FALSE,Pulling,FALSE,1
